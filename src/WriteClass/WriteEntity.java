@@ -35,7 +35,8 @@ import org.springframework.stereotype.Repository;
  */
 public class WriteEntity {        
 	ReadTable rt=new ReadTable(); 
-	public String webHtml = "WebRoot\\pages\\"; //页面生成路径(WEB 里边)
+	//public String webHtml = "WebRoot\\pages\\"; //页面生成路径(WEB 里边)
+	public String webHtml = "WebContent\\pages\\"; //页面生成路径(WEB 里边)
 	public String address = ""; // 项目绝对路径
 
 	private String table_name = ""; // 表名

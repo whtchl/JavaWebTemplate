@@ -5,7 +5,6 @@ import java.lang.reflect.ParameterizedType;
 import java.util.List;
 import javax.annotation.Resource;
 import ky.dao.BaseDao;
-import ky.entity.TblTrade;
 import ky.util.PageView;
 import org.mybatis.spring.SqlSessionTemplate;
 

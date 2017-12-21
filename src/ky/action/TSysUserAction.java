@@ -20,7 +20,7 @@ import java.io.UnsupportedEncodingException;
 * @ClassName: TSysUserAction
 * @Description: ???
 * @author 生成Action类
-* @date 2017-12-20 下午 04:58:24 
+* @date 2017-12-21 上午 10:43:50 
 *******************************************************
 */
 @ParentPackage("tiles-default")

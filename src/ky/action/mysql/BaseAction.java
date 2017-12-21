@@ -20,7 +20,9 @@ import java.io.File;
  import javax.servlet.http.HttpServletRequest;
  import javax.servlet.http.HttpServletResponse;
  import javax.servlet.http.HttpSession;
- import ky.util.PageView;
+
+import ky.util.LogUtil;
+import ky.util.PageView;
  import net.sf.json.JSONArray;
  import net.sf.json.JSONObject;
  import org.apache.commons.httpclient.HttpClient;

@@ -7,7 +7,7 @@ import java.util.Date;
 * @ClassName: TSysUser
 * @Description: ???
 * @author 用wzl写的自动生成
-* @date 2017-12-20 下午 04:58:24 
+* @date 2017-12-21 上午 10:43:50 
 *******************************************************
 */
 public class TSysUser{
